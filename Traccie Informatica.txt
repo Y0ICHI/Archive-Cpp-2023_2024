@@ -1,0 +1,7 @@
+Traccie:
+    1) Scrivere un programma che carichi un vettore di caratteri e conti quante consonanti e quante vocali ci sono, rappresentando i risultati a video
+    2) Scrivere un programma che carichi due vettori di interi, X e Y, li fonda in un unico vettore Z e ordini Z in senso crescente utillizando l'algoritmo con il SelectionSort. Visualizzare Z ordinato
+
+Per entrambi gli esercizi usare le funzioni, puntatori, allocazione dinamica
+
+Rivedersi new

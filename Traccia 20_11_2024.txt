@@ -1,0 +1,11 @@
+Dio cane
+Scrivere un programma in C++ che effettui le seguenti:
+
+1) Inserisca in una lista concatenata mediante l'inserimento in coda, un numero di prodotti (letto in input) caratterizzati da; Nome prodotto, Categoria, quantità e prezzo X
+2) Visualizzare i prodotti inseriti X
+3) Aggiungere alla lista altri M prodotti (dato in input) tramite la funzione di inserimento in testa X
+4) Visualizzare nuovamente la lista concreta X
+5) Visualizzare tutti i prodotti appartenenti a una determinata categoria letta in input X
+6) Visualizzare nome e prezzo di tutti i prodotti in cui la quantità è inferiore a una soglia letta da input X
+7) Visualizzare tutti i prodotti il cui prezzo è compreso in un range in cui gli estremi sono letti da input
+	
